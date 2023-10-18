@@ -1,3 +1,5 @@
+//testing
+
 // Function to update scroll indicators
 function updateScrollIndicators() {
 	// Check if the content overflows
